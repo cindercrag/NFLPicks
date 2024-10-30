@@ -1,0 +1,17 @@
+Moneyline
+              Predicted team_abbr opponent_abbr  team_predicted_score  opponent_predicted_score  over_under_total
+202410310nyj   0.221443       NYJ           HTX                   8.2                      15.2              23.4
+202411030atl   0.752261       ATL           DAL                  32.0                      19.8              51.8
+202411030buf   0.603723       BUF           MIA                  28.3                      17.0              45.3
+202411030car   0.571619       CAR           NOR                  25.2                      32.5              57.7
+202411030cin   0.218435       CIN           RAI                  17.4                      28.3              45.7
+202411030cle   0.490252       CLE           SDG                  17.5                      12.9              30.4
+202411030crd   0.663909       CRD           CHI                  33.7                      26.1              59.8
+202411030gnb   0.811893       GNB           DET                  31.7                      26.9              58.6
+202411030min   0.929827       MIN           CLT                  26.2                      37.6              63.8
+202411030nyg   0.458019       NYG           WAS                  17.7                      23.0              40.7
+202411030oti   0.895402       OTI           NWE                  31.5                       8.3              39.8
+202411030phi   0.790653       PHI           JAX                  26.8                      13.2              40.0
+202411030rav   0.928340       RAV           DEN                  27.9                      18.3              46.2
+202411030sea   0.790268       SEA           RAM                  18.9                      23.1              42.0
+202411040kan   0.869555       KAN           TAM                  30.3                      14.4              44.7
