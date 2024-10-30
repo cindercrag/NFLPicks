@@ -1,6 +1,8 @@
+"Predicted" is the chance that "team_abbr" will beat "opponent_abbr". 
+
 Moneyline
               Predicted team_abbr opponent_abbr  team_predicted_score  opponent_predicted_score  over_under_total
-202410310nyj   0.221443       NYJ           HTX                   8.2                      15.2              23.4
+202410310nyj   0.221443       NYJ           HOU                   8.2                      15.2              23.4
 202411030atl   0.752261       ATL           DAL                  32.0                      19.8              51.8
 202411030buf   0.603723       BUF           MIA                  28.3                      17.0              45.3
 202411030car   0.571619       CAR           NOR                  25.2                      32.5              57.7
@@ -8,10 +10,28 @@ Moneyline
 202411030cle   0.490252       CLE           SDG                  17.5                      12.9              30.4
 202411030crd   0.663909       CRD           CHI                  33.7                      26.1              59.8
 202411030gnb   0.811893       GNB           DET                  31.7                      26.9              58.6
-202411030min   0.929827       MIN           CLT                  26.2                      37.6              63.8
+202411030min   0.929827       MIN           IND                  26.2                      37.6              63.8
 202411030nyg   0.458019       NYG           WAS                  17.7                      23.0              40.7
-202411030oti   0.895402       OTI           NWE                  31.5                       8.3              39.8
+202411030oti   0.895402       TEN           NWE                  31.5                       8.3              39.8
 202411030phi   0.790653       PHI           JAX                  26.8                      13.2              40.0
 202411030rav   0.928340       RAV           DEN                  27.9                      18.3              46.2
 202411030sea   0.790268       SEA           RAM                  18.9                      23.1              42.0
 202411040kan   0.869555       KAN           TAM                  30.3                      14.4              44.7
+
+Point Spread for 10/30
+              Predicted team_abbr opponent_abbr  team_predicted_score  opponent_predicted_score  over_under_total   point_spread  vegas_over_under
+202410310nyj   0.057158       NYJ           HOU                  13.6                      15.3              28.9      NYJ -2.0      42.5         
+202411030atl   0.129006       ATL           DAL                  20.2                      22.8              43.0      ATL -2.5      52.5
+202411030buf   0.905473       BUF           MIA                  24.4                      10.2              34.6      BUF -6.5      48.5
+202411030car   0.607913       CAR           NOR                  19.4                      16.7              36.1      NOR -7.0      43.5
+202411030cin   0.648699       CIN           RAI                  20.4                      26.8              47.2      CIN -7.0      46.5
+202411030cle   0.474233       CLE           SDG                  21.1                      17.5              38.6      SDG -2.0      42.5
+202411030crd   0.117623       CRD           CHI                  24.8                      24.2              49.0      CRD -1.0      44.5
+202411030gnb   0.282869       GNB           DET                  26.9                      54.1              81.0      DET -3.5      48.5
+202411030min   0.695963       MIN           IND                  28.4                      26.9              55.3      MIN -5.0      46.5
+202411030nyg   0.249610       NYG           WAS                  13.7                      26.6              40.3      WAS -3.5      43.5
+202411030oti   0.614408       TEN           NWE                  33.5                      11.8              45.3      TEN -3.5      43.5
+202411030phi   0.190782       PHI           JAX                  17.7                      18.3              36.0      PHI -7.5      45.5
+202411030rav   0.286480       RAV           DEN                  18.6                      33.5              52.1      BAL -9.5      45.5
+202411030sea   0.536876       SEA           RAM                  20.3                      26.2              46.5      RAM -2.5      48.5
+202411040kan   0.119442       KAN           TAM                  16.2                      17.3              33.5      KAN -9.0      45.5
